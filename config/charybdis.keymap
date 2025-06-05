@@ -29,9 +29,9 @@
 &kp Q         &kp N1   &kp N2  &kp N3          &kp N4        &kp N5            &kp N6          &kp N7           &kp N8     &kp N9   &kp N0       &kp BSPC
 &kp Q         &kp N1   &kp N2  &kp N3          &kp N4        &kp N5            &kp N6          &kp N7           &kp N8     &kp N9   &kp N0       &kp BSPC
 &kp Q         &kp N1   &kp N2  &kp N3          &kp N4        &kp N5            &kp N6          &kp N7           &kp N8     &kp N9   &kp N0       &kp BSPC
-&kp Q         &lt N1   &kp N2  &kp N3          &kp N4        &kp N5            &kp N6          &kp N7           &kp N8     &kp N9   &kp N0       &kp BSPC
-                               &kp A  &kp B    &lt 1 C       &lt 2 D           &kp E
-                                      &kp F    &kp G         &lt 3 H           &lt 4 I
+&kp Q         &kp N1   &kp N2  &kp N3          &kp N4        &kp N5            &kp N6          &kp N7           &kp N8     &kp N9   &kp N0       &kp BSPC
+                               &kp A  &kp B    &kp C         &kp D           &kp E
+                                      &kp F    &kp G         &kp H           &kp I
             >;
 
             trackball-bindings = <&tmv_coarse>;
